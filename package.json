@@ -1,0 +1,34 @@
+{
+  "name": "tbz-va-2016",
+  "version": "1.0.0",
+  "description": "Vertriefungsarbeit 2016",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KCreate/tbz-va-2016.git"
+  },
+  "author": "Leonard Schütz, Pascal Luginbühl, Oliver Stalder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KCreate/tbz-va-2016/issues"
+  },
+  "homepage": "https://github.com/KCreate/tbz-va-2016#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "cssnano": "^3.7.0",
+    "postcss-loader": "^0.9.1",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.10.0"
+  }
+}

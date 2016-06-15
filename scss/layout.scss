@@ -1,0 +1,6 @@
+@import './global.scss';
+
+body {
+    transition: background $durFast $easing;
+    background-color: $colorLightGreen;
+}

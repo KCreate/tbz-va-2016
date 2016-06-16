@@ -1,8 +1,8 @@
 // Dependencies
-const webpack         = require('webpack');
-const path            = require('path');
-const autoprefixer    = require('autoprefixer');
-const cssnano         = require('cssnano');
+const webpack       = require('webpack');
+const path          = require('path');
+const autoprefixer  = require('autoprefixer');
+const cssnano       = require('cssnano');
 
 const production = false;
 
@@ -13,7 +13,9 @@ if (production) {
         ],
         plugins: [
             new webpack.optimize.UglifyJsPlugin({
-                compress: { warnings: false },
+                compress: {
+                    warnings: false
+                },
             }),
             new webpack.optimize.OccurenceOrderPlugin(),
             new webpack.NoErrorsPlugin()
@@ -24,12 +26,13 @@ if (production) {
             publicPath: '/',
         },
         module: {
-            loaders: [
-                {
-                    test: /\.s?css$/,
-                    loader: 'style!css!postcss!sass',
-                },
-            ],
+            loaders: [{
+                test: /\.s?css$/,
+                loader: 'style!css!postcss!sass',
+            }, {
+                test: /\.(png|woff|woff2|eot|ttf|svg)$/,
+                loader: 'url-loader?limit=100000'
+            }],
         },
         postcss: () => ([autoprefixer, cssnano]),
     };
@@ -50,12 +53,13 @@ if (production) {
             publicPath: '/',
         },
         module: {
-            loaders: [
-                {
-                    test: /\.s?css$/,
-                    loader: 'style!css!postcss!sass',
-                },
-            ],
+            loaders: [{
+                test: /\.s?css$/,
+                loader: 'style!css!postcss!sass',
+            }, {
+                test: /\.(png|woff|woff2|eot|ttf|svg)$/,
+                loader: 'url-loader?limit=100000'
+            }],
         },
         postcss: () => ([autoprefixer, cssnano]),
     };

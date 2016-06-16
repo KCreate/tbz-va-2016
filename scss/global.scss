@@ -13,7 +13,9 @@
 
 // Colors
 $colorChangePercentage: 3%;
-$colorWhite: darken(#fff, $colorChangePercentage);
+$colorWhite: #fff;
+$colorGray: darken($colorWhite, $colorChangePercentage * 2);
+$colorDarkGray: darken($colorGray, 50%);
 $colorDark: darken(#263238, $colorChangePercentage);
 $colorBlue: #3F51B5;
 $colorLightBlue: #2962FF;

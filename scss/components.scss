@@ -1,12 +1,19 @@
 @import "./global.scss";
 
-.Header {
+.header {
     background-color: $colorGreen;
     color: $colorWhite;
     padding: 10px 20px;
     height: 100px;
+    width: 100%;
     overflow: hidden;
-    position: relative;
+    position: fixed;
+    top: 0;
+    box-shadow: $shadow2;
+
+    // wtf
+    will-change: transform;
+    z-index: 1000;
 
     > div {
         &:first-child {
@@ -36,7 +43,11 @@
     ul {
         list-style: none;
         position: absolute;
-        bottom: 0;
+        bottom: 7px;
+
+        @include mobile {
+            bottom: 0;
+        };
 
         li {
             display: block;
@@ -44,13 +55,15 @@
             margin: 0 3px;
             padding: 5px 4px;
             background-color: $colorWhite;
-            border-top-right-radius: 2px;
-            border-top-left-radius: 2px;
+            border-radius: 2px;
             box-shadow: $shadow1;
 
             min-width: 80px;
             text-align: center;
             position: relative;
+
+            transition: transform $durShort $easing,
+                        box-shadow $durShort $easing;
 
             a {
                 text-decoration: none;
@@ -64,8 +77,17 @@
             }
 
             &.current, &:hover {
+                transform: translateY(-1px);
+                box-shadow: $shadow3;
+                cursor: pointer;
                 a {
                     color: $colorLightBlue;
+                }
+
+                @include mobile {
+                    transform: none;
+                    box-shadow: none;
+                    text-decoration: underline;
                 }
             }
 
@@ -89,5 +111,92 @@
 
     @include mobile {
         padding: 0;
+    }
+}
+
+.section {
+    width: 100%;
+    margin: 0 auto;
+    padding: 32px calc(10%);
+    background-color: $colorWhite;
+
+    @include mobile {
+        padding: 24px 10px;
+    }
+
+    // Reference: http://stackoverflow.com/a/8539107/2611393
+    & > .section ~ .section {
+        margin: 16px auto;
+    }
+
+    .card {
+        background-color: $colorGray;
+        padding: 12px 8px;
+        margin: 24px auto;
+        box-shadow: $shadow1;
+        border-radius: 2px;
+        max-width: 500px;
+        border-bottom: 3px solid $colorGreen;
+
+        padding-bottom: 30px;
+        position: relative;
+
+        transition: box-shadow $durShort $easing;
+
+        &:hover {
+            box-shadow: $shadow2;
+        }
+
+        > span {
+            position: absolute;
+            bottom: 3px;
+            right: 8px;
+            color: $colorDarkGray;
+            font-style: italic;
+
+            &:before {
+                content: "~ ";
+            }
+        }
+    }
+
+    h1 {
+        margin: 16px 0;
+        position: relative;
+
+        &:before {
+            position: absolute;
+            content: "";
+            width: 4px;
+            height: 100%;
+            background-color: $colorGreen;
+            transform: translateX(-12px);
+        }
+
+        &+ h2 {
+            color: $colorDarkGray;
+            margin-top: -16px;
+            margin-bottom: 16px;
+            position: relative;
+            font-size: 20px;
+
+            &:before {
+                position: absolute;
+                content: "";
+                width: 4px;
+                height: 100%;
+                background-color: $colorGreen;
+                transform: translateX(-12px);
+            }
+        }
+    }
+
+    hr {
+        height: 4px;
+        background-color: $colorGreen;
+        border: none;
+        margin: 16px 0;
+        width: calc(100% + 24px);
+        transform: translateX(-12px);
     }
 }

@@ -1,29 +1,19 @@
 const express   = require('express');
 const router    = express.Router({ strict: true });
 const path      = require('path');
+const fs        = require('fs');
+const Remarkable= require('remarkable');
+const md        = new Remarkable();
 
-router.use('/umfrage', (req, res) => {
-    res.render('umfrage', {
-        current_umfrage: true,
-    });
-});
-
-router.use('/vergleich', (req, res) => {
-    res.render('vergleich', {
-        current_vergleich: true,
-    });
-});
-
-router.use('/interview', (req, res) => {
-    res.render('interview', {
-        current_interview: true,
-    });
-});
-
-router.use('/ueberuns', (req, res) => {
-    res.render('ueberuns', {
-        current_ueberuns: true,
-    });
+router.use('/:section', (req, res) => {
+    const pages = ['umfrage', 'vergleich', 'interview', 'ueberuns'];
+    if (pages.indexOf(req.params.section) > -1) {
+        res.render(req.params.section, {
+            ['current_' + req.params.section]: true,
+        });
+    } else {
+        next();
+    }
 });
 
 router.use(/\/$/, (req, res) => {

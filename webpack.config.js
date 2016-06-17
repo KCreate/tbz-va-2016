@@ -3,8 +3,9 @@ const webpack       = require('webpack');
 const path          = require('path');
 const autoprefixer  = require('autoprefixer');
 const cssnano       = require('cssnano');
+const ExtractPlugin = require('extract-text-webpack-plugin');
 
-const production = false;
+const production = true;
 
 if (production) {
     module.exports = {
@@ -18,7 +19,8 @@ if (production) {
                 },
             }),
             new webpack.optimize.OccurenceOrderPlugin(),
-            new webpack.NoErrorsPlugin()
+            new webpack.NoErrorsPlugin(),
+            new ExtractPlugin('style.css')
         ],
         output: {
             path: path.resolve(__dirname, 'dist'),
@@ -28,7 +30,7 @@ if (production) {
         module: {
             loaders: [{
                 test: /\.s?css$/,
-                loader: 'style!css!postcss!sass',
+                loader: ExtractPlugin.extract('style-loader', 'css!postcss!sass'),
             }, {
                 test: /\.(png|woff|woff2|eot|ttf|svg)$/,
                 loader: 'url-loader?limit=100000'
@@ -45,7 +47,8 @@ if (production) {
         plugins: [
             new webpack.HotModuleReplacementPlugin(),
             new webpack.optimize.OccurenceOrderPlugin(),
-            new webpack.NoErrorsPlugin()
+            new webpack.NoErrorsPlugin(),
+            new ExtractPlugin('style.css')
         ],
         output: {
             path: path.resolve(__dirname, 'dist'),
@@ -55,7 +58,7 @@ if (production) {
         module: {
             loaders: [{
                 test: /\.s?css$/,
-                loader: 'style!css!postcss!sass',
+                loader: ExtractPlugin.extract('style-loader', 'css!postcss!sass'),
             }, {
                 test: /\.(png|woff|woff2|eot|ttf|svg)$/,
                 loader: 'url-loader?limit=100000'

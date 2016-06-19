@@ -236,4 +236,17 @@
             }
         }
     }
+
+    img {
+        width: 100%;
+        max-width: 570px;
+        margin: 16px auto;
+        border-radius: 4px;
+        box-shadow: $shadow2;
+        transition: box-shadow $durShort $easing;
+        
+        &:hover {
+            box-shadow: $shadow3;
+        }
+    }
 }

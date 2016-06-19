@@ -11,6 +11,11 @@
     top: 0;
     box-shadow: $shadow2;
 
+    @include mobile {
+        box-shadow: none;
+        border-bottom: 3px solid $colorGreen;
+    }
+
     // wtf
     will-change: transform;
     z-index: 1000;
@@ -55,8 +60,10 @@
             margin: 0 3px;
             padding: 5px 4px;
             background-color: $colorWhite;
+            color: $colorDark;
             border-radius: 2px;
             box-shadow: $shadow1;
+            text-decoration: none;
 
             min-width: 80px;
             text-align: center;
@@ -65,24 +72,11 @@
             transition: transform $durShort $easing,
                         box-shadow $durShort $easing;
 
-            a {
-                text-decoration: none;
-                color: $colorBlue;
-
-                transition: color $durShort $easing;
-
-                @include mobile-small {
-                    font-size: 12px;
-                }
-            }
-
             &.current, &:hover {
                 transform: translateY(-1px);
                 box-shadow: $shadow3;
                 cursor: pointer;
-                a {
-                    color: $colorLightBlue;
-                }
+                color: $colorLightBlue;
 
                 @include mobile {
                     transform: none;
@@ -117,7 +111,7 @@
 .section {
     width: 100%;
     margin: 0 auto;
-    padding: 32px calc(10%);
+    padding: 24px calc(10%);
     background-color: $colorWhite;
 
     @include mobile {
@@ -179,7 +173,7 @@
                 height: 100%;
                 background-color: $colorGreen;
                 transform: translateX(-12px);
-            } 
+            }
         }
 
         @include mobile {
@@ -221,7 +215,7 @@
             background-color: $colorGray;
             border-radius: 3px;
             padding: 6px 4px;
-            
+
             &::before {
                 $bulletpointwidth: 7px;
 
@@ -244,7 +238,7 @@
         border-radius: 4px;
         box-shadow: $shadow2;
         transition: box-shadow $durShort $easing;
-        
+
         &:hover {
             box-shadow: $shadow3;
         }

@@ -1,4 +1,10 @@
 // Media Queries
+@mixin desktop {
+    @media (min-width: 570px) {
+        @content;
+    } 
+}
+
 @mixin mobile {
     @media (max-width: 570px) {
         @content;

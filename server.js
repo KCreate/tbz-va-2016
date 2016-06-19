@@ -31,6 +31,9 @@ app.use(webpackDevMiddleware(compiler, {
 }));
 app.use(webpackHotMiddleware(compiler));
 
+// Static assets
+app.use(express.static(path.resolve(__dirname, 'static/')));
+
 // Routing
 app.use(require('./routes/router.js'));
 

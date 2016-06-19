@@ -5,7 +5,7 @@ const autoprefixer  = require('autoprefixer');
 const cssnano       = require('cssnano');
 const ExtractPlugin = require('extract-text-webpack-plugin');
 
-const production = true;
+const production = false;
 
 if (production) {
     module.exports = {
@@ -47,8 +47,7 @@ if (production) {
         plugins: [
             new webpack.HotModuleReplacementPlugin(),
             new webpack.optimize.OccurenceOrderPlugin(),
-            new webpack.NoErrorsPlugin(),
-            new ExtractPlugin('style.css')
+            new webpack.NoErrorsPlugin()
         ],
         output: {
             path: path.resolve(__dirname, 'dist'),
@@ -58,7 +57,7 @@ if (production) {
         module: {
             loaders: [{
                 test: /\.s?css$/,
-                loader: ExtractPlugin.extract('style-loader', 'css!postcss!sass'),
+                loader: 'style!css!postcss!sass',
             }, {
                 test: /\.(png|woff|woff2|eot|ttf|svg)$/,
                 loader: 'url-loader?limit=100000'

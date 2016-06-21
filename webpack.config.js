@@ -5,7 +5,7 @@ const autoprefixer  = require('autoprefixer');
 const cssnano       = require('cssnano');
 const ExtractPlugin = require('extract-text-webpack-plugin');
 
-const production = true;
+const production = false;
 
 if (production) {
     module.exports = {

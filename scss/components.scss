@@ -244,3 +244,22 @@
         }
     }
 }
+
+.interview {
+    padding: 10px 8px;
+    border-radius: 3px;
+    box-shadow: $shadow1;
+    color: $colorWhite;
+    background-color: $colorGreen;
+
+    h2 {
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+
+    p {
+       font-style: italic;
+       margin-left: 5px;
+       word-wrap: break-word;
+    }
+}

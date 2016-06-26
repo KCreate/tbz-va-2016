@@ -158,6 +158,10 @@
         }
     }
 
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 400;
+    }
+
     h1 {
         position: relative;
         margin: 32px 0;
@@ -209,12 +213,14 @@
     ul, ol {
         list-style: none;
         padding-left: 16px;
+
         li {
             position: relative;
             margin: 4px 0;
             background-color: $colorGray;
             border-radius: 3px;
             padding: 6px 4px;
+            word-wrap: break-word;
 
             &::before {
                 $bulletpointwidth: 7px;
@@ -242,6 +248,22 @@
         &:hover {
             box-shadow: $shadow3;
         }
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: $shadow1;
+
+    th {
+        text-align: left;
+    }
+
+    th, td {
+        background-color: $colorGray;
+        padding: 4px 6px;
+        border: 2px solid $colorGreen;
     }
 }
 

@@ -112,6 +112,22 @@ Preis CHF | 38'948 | 36'505 | 29'211
 Zur Zielgruppe von Elektroautos gehören definitiv Menschen die in einer Stadt leben. Diese können ihr Elektroauto einfach und billig an der nächsten Ladestation aufladen.
 Je nach Reichweite des Elektroautos kann sich die Zielgruppe erhöhen oder verkleinern. 
 
+# Ladestationen
+Ladestationen für Elektroautos gibt es überall. Unten ist ein Bild von allen Ladestationen für die Elektroautos von Tesla.
+
+![Tesla chargers](/teslachargers.jpg)
+
+Diese Ladestationen können komplett gratis verwendet werden.
+Sie laden das Auto innerhalb von Minuten, anstatt von Stunden. Sie stehen meistens auf Raststätten. So kann man sich etwas zu Essen holen während sich das Auto komplett aufladet.
+
+Man kann sich aber auch eine Ladestation in die eigene Garage einbauen lassen. Diese lädt das Auto dann innert wenigen Stunden auf. Diese Batterie kann dann mit den Hauseigenen Solarzellen aufgeladen werden. So bezahlt man keinen einzigen Franken für das Auto.
+
+# Sicherheit
+
+Elektroautos sind im Allgemeinen sicherer als Autos mit Verbrennungsmotoren.
+Bei einem Unfall muss man nur darauf achten nicht im Wasser zu landen.
+Autos mit Verbrennungsmotoren können verbrennen oder sogar explodieren. Elektroautos haben dieses Problem nicht. Wenn dann auch noch die Batterie wasserdicht verpackt ist, kann man so viele Unfälle machen wie es die eigene Gesundheit erlaubt.
+
 # Quellen
 - [http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/](http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/)
 - [https://de.wikipedia.org/wiki/Treibhauseffekt](https://de.wikipedia.org/wiki/Treibhauseffekt)

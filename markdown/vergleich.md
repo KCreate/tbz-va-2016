@@ -95,6 +95,22 @@ Beschleunigung s | 8.2 | 7.2 | 6
 Platz | 5 | 4 | 5
 Preis CHF | 38'948 | 36'505 | 29'211
 
+# Vorteile
+- Niedrige Betriebs-, und Unterhaltskosten. Da ein Elektroauto mit Strom und nicht mit Benzin betrieben wird, muss man maximal nur 1-2 CHF pro 100 Kilometer bezahlen.
+- Besitzer eines Elektroautos müssen keine KFZ-Versicherung abschliessen. Jedoch muss ein Betrag von 10-30 CHF als KFZ-Steuern gezahlt werden.
+- Hohe Umweltfreundlichkeit. Ein Elektroauto erzeugt keine Abgase und ist somit 100% emissionsfrei.
+- Ein Elektromotor muss seltener gewartet werden als ein Verbrennungsmotor. Jedoch fällt dies dann meistens teurer aus.
+- Sie sind sehr leise.
+
+# Nachteile
+- Sehr teuer. Heutzutage kostet ein Elektroauto wie der Nissan Leaf etwa 34'500 CHF.
+- Unklarheit wie lange die Batterien der Elektroautos halten
+- Relativ kurze Reichweite. Teure Elektroautos besitzen eine Reichweite von über 500 Kilometern.
+- Lange Ladezeiten der Batterien. Dies kann bis zu 10 Stunden dauern.
+
+# Zielgruppe
+Zur Zielgruppe von Elektroautos gehören definitiv Menschen die in einer Stadt leben. Diese können ihr Elektroauto einfach und billig an der nächsten Ladestation aufladen.
+Je nach Reichweite des Elektroautos kann sich die Zielgruppe erhöhen oder verkleinern. 
 
 # Quellen
 - [http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/](http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/)
@@ -103,3 +119,4 @@ Preis CHF | 38'948 | 36'505 | 29'211
 - [https://de.wikipedia.org/wiki/BMW_i3](https://de.wikipedia.org/wiki/BMW_i3)
 - [https://de.wikipedia.org/wiki/Geschichte_des_Elektroautos#Renaissance_.281990.E2.80.932003.29](https://de.wikipedia.org/wiki/Geschichte_des_Elektroautos#Renaissance_.281990.E2.80.932003.29)
 - [http://w1.siemens.ch/home/ch/de/cc/siemens/energieeffizienz/elekromobilitaet/Pages/Elektrischer_Antrieb_fuer_Truck.aspx](http://w1.siemens.ch/home/ch/de/cc/siemens/energieeffizienz/elekromobilitaet/Pages/Elektrischer_Antrieb_fuer_Truck.aspx)
+- [http://www.mein-elektroauto.com/die-vor-und-nachteile-von-elektroautos/](http://www.mein-elektroauto.com/die-vor-und-nachteile-von-elektroautos/)

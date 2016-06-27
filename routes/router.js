@@ -5,7 +5,7 @@ const fs        = require('fs');
 
 // Main routes
 router.use('/:section', (req, res, next) => {
-    const pages = ['home', 'umfrage', 'vergleich', 'interview', 'ueberuns'];
+    const pages = ['home', 'umfrage', 'vergleich', 'interview'];
     if (pages.indexOf(req.params.section) > -1) {
         res.render(req.params.section, {
             ['current_' + req.params.section]: true,

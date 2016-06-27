@@ -3,6 +3,25 @@ const router    = express.Router({ strict: true });
 const path      = require('path');
 const fs        = require('fs');
 
+// Remove .html from the url
+router.use('/:section', (req, res, next) => {
+    if (req.params.section.indexOf('.html') > -1) {
+        const sectionName = req.params.section.split('.html')[0];
+        res.redirect(sectionName);
+    } else {
+        next();
+    }
+});
+
+// Redirect index to home
+router.use('/:section', (req, res, next) => {
+    if (req.params.section === 'index') {
+        res.redirect('home');
+    } else {
+        next();
+    }
+});
+
 // Main routes
 router.use('/:section', (req, res, next) => {
     const pages = ['home', 'umfrage', 'vergleich', 'interview'];

@@ -3,7 +3,7 @@ Wir sind eine Gruppe von 3 Schülern der Technischen Berufsschule in Zürich.
 Wir absolvieren eine Berufslehre als Informatiker in der Fachrichtung Applikationsentwicklung.
 Diese Seite ist unsere Vertiefungsarbeit im Fach Allgemeinbildung.
 
-![TBZ](/tbz.jpg)
+![TBZ](./tbz.jpg)
 
 # Vertiefungsarbeit
 Der Auftrag war, eine kleine bis Mittelgrosse Arbeit zu schreiben.

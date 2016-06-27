@@ -2,6 +2,8 @@
 
 Leonard Schütz, Pascal Luginbühl, Oliver Stalder
 
+![Screenshot](/static/screenshot.jpg)
+
 # License
 
 The MIT License (MIT)

@@ -12,12 +12,16 @@ Diese treffen zwangsläufig auf die Erdoberfläche und erhitzen dort den Boden u
 Der erhitzte Boden und die warme Luft senden *langwellige* Infrarot-Strahlen aus die die Erdatmosphäre nur selten ganz durchqueren können.
 Diese Strahlen erhitzen dann wiederum wieder den Boden und so bildet sich ein Kreislauf.
 
+![Treibhauseffekt Diagram](/treibhauseffekt.jpg)
+
 Dieser Kreislauf, also der Treibhauseffekt, wurde als erstes von [Joseph Fourier](https://de.wikipedia.org/wiki/Joseph_Fourier) im Jahre 1824 entdeckt.
 Joseph Fourier hat unter anderem die Fourier Transformation erfunden.
 1896 wurde der Treibhauseffekt von [Svante Arrhenius](https://de.wikipedia.org/wiki/Svante_Arrhenius) genauer beschrieben und festgehalten.
 Jedoch dauerte es noch weitere 50 Jahre bis der Amerikaner Charles D. Keeling angefangen hat, den Treibhauseffekt systematisch zu erforschen.
 Durch Keeling's Arbeit wurden dutzende Messstationen für CO2 aufgebaut.
 Die bekannteste dieser Messstationen befindet sich auf dem Mauna Loa Berg in Hawaii.
+
+![Mauna Loa Messstation](/maunaloa.jpg)
 
 Zum Treibhauseffekt tragen aber auch andere Faktoren wie Autos die mit Benzin betrieben werden.
 Jeder Fahrzeug das im Inneren irgendetwas verbrennt, lässt Schadstoffe ab.
@@ -44,6 +48,8 @@ Es wurde von galvanischen Zellen betrieben.
 Ein weiterer Meilenstein der Geschichte der Elektroautos wurde 1899 erreicht.
 [Camille Jenatzy](https://en.wikipedia.org/wiki/Camille_Jenatzy), ein belgischer Automobilrennfahrer und Konstrukteur, erreichte 1899 als erster Mensch der Welt eine Geschwindigkeit von über 100 km/h.
 Diesen Rekord stellte er mit seinem eigenen Elektroauto, dem **"La Jamais Contente"**, auf.
+
+![Camille Jenatzy Electrocar](/camillecar.jpg)
 
 # Elektroautos im 20. Jahrhundert
 In den neunziger Jahren wurde die Forschung an neuen Akkutechnologien und Elektroantrieben drastisch verstärkt. Gründe dafür sind unter anderem:
@@ -78,6 +84,8 @@ Die Ingenieure von Siemens standen vor einer besonderen Herausforderung.
 Der weissrussische Hersteller BelAZ wollte nicht nur den grössten Truck der Welt bauen, er sollte ein Viertel mehr Last tragen können, verglichen mit dem bis dato weltweit grössten Muldenkipper.
 Zudem sollten die Kosten pro Tonne beförderten Materials deutlich gesenkt werden.
 Im leeren Zustand erreicht der Lastwagen eine Höchstgeschwindigkeit von 64 Kilometer in der Stunde.
+
+![Siemens Truck](/siemenstruck.jpg)
 
 Der Siemens Standort in Zürich / Altstetten und Wallisellen besitzt je einen BMW i3.
 Als Antrieb benutzt der BMW i3 einen Elektromotor mit einer Kraft von 125 kW.
@@ -127,6 +135,8 @@ Man kann sich aber auch eine Ladestation in die eigene Garage einbauen lassen. D
 Elektroautos sind im Allgemeinen sicherer als Autos mit Verbrennungsmotoren.
 Bei einem Unfall muss man nur darauf achten nicht im Wasser zu landen.
 Autos mit Verbrennungsmotoren können verbrennen oder sogar explodieren. Elektroautos haben dieses Problem nicht. Wenn dann auch noch die Batterie wasserdicht verpackt ist, kann man so viele Unfälle machen wie es die eigene Gesundheit erlaubt.
+
+![Tesla Accident](/teslaccident.jpg)
 
 # Quellen
 - [http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/](http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/)

@@ -11,7 +11,23 @@
     "type": "git",
     "url": "git+https://github.com/KCreate/tbz-va-2016.git"
   },
-  "author": "Leonard Schütz, Pascal Luginbühl, Oliver Stalder",
+  "author": "Leonard Schütz",
+  "contributors": [
+    {
+        "name": "Leonard Schütz",
+        "url": "https://leonardschuetz.ch",
+        "email": "leni.schuetz@me.com"
+    },
+    {
+        "name": "Pascal Luginbühl",
+        "url": "https://spargelplays.ch",
+        "email": "spargelplays@gmail.com"
+    },
+    {
+        "name": "Oliver Stalder",
+        "email": "oli.stalder@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/KCreate/tbz-va-2016/issues"

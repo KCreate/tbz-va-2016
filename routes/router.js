@@ -1,7 +1,5 @@
 const express   = require('express');
 const router    = express.Router({ strict: true });
-const path      = require('path');
-const fs        = require('fs');
 
 // Remove .html from the url
 router.use('/:section', (req, res, next) => {

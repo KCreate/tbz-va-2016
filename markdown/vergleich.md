@@ -1,11 +1,11 @@
 # Einleitung
-Das Ziel des Vergleiches ist es, zu zeigen wo die grössten Unterschiede der Elektroautos zu den gewöhnlichen Autos liegen.
+Das Ziel des Vergleiches ist es, zu zeigen wo die grössten Unterschiede der Elektroautos zu den gewöhnlichen Autos liegen. Die Vorteile und Nachteile werden ebenfalls gezeigt.
+
+# Der Treibhauseffekt
 Jedes gewöhnliche mit Benzin betriebene Fahrzeug stösst eine Grosse Menge Schadstoffe ab.
 Diese Schadstoffe enthalten unter anderem CO2, Methan und Lachgas.
 Dieses gelangt in die Obere Erdatmosphäre und trägt dort zur momentan ablaufenden globalen Klimaerwärmung bei.
 Dies geschieht durch den sogenannten Treibhaus-Effekt.
-
-# Der Treibhauseffekt
 Der Treibhauseffekt beschreibt die Erwärmung der Erdatmosphäre durch die Sonne.
 Die Sonne, oder allgemein jeder Stern, sendet *kurwellige* Strahlen aus.
 Diese treffen zwangsläufig auf die Erdoberfläche und erhitzen dort den Boden und die Atmosphäre.

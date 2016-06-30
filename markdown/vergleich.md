@@ -92,7 +92,6 @@ Als Antrieb benutzt der BMW i3 einen Elektromotor mit einer Kraft von 125 kW.
 Die Reichweite beträgt durchschnittlich 190km. Der Verkauf startete in Deutschland am 16. November 2014 und in den USA am 2. Mai 2014.
 
 # Fakten
-
 Folgende Daten wurden aus dem Internet gesucht und können möglicherweise falsch sein.
 
 Model/Aspekt | Mercedes C180 | BMW i3 | Tesla Model 3
@@ -131,12 +130,26 @@ Sie laden das Auto innerhalb von Minuten, anstatt von Stunden. Sie stehen meiste
 Man kann sich aber auch eine Ladestation in die eigene Garage einbauen lassen. Diese lädt das Auto dann innert wenigen Stunden auf. Diese Batterie kann dann mit den Hauseigenen Solarzellen aufgeladen werden. So bezahlt man keinen einzigen Franken für das Auto.
 
 # Sicherheit
-
 Elektroautos sind im Allgemeinen sicherer als Autos mit Verbrennungsmotoren.
 Bei einem Unfall muss man nur darauf achten nicht im Wasser zu landen.
 Autos mit Verbrennungsmotoren können verbrennen oder sogar explodieren. Elektroautos haben dieses Problem nicht. Wenn dann auch noch die Batterie wasserdicht verpackt ist, kann man so viele Unfälle machen wie es die eigene Gesundheit erlaubt.
 
 ![Tesla Accident](teslaccident.jpg)
+
+# Statistiken
+Wir haben uns im Internet darüber informiert wie beliebt Elektroautos sind, wie sehr sich dies verändert hat und in welche Richtung.
+
+Unten sieht man den Prozentualen der Worte "Combustion Engine" und "Electric Engine" in der englischen Literatur von 1800 bis 2004.
+
+![Google Ngram](googlengram.jpg)
+
+Man sieht zwei klare Höhepunkte in der Verwendung des Wortes "Combustion Engine". Diese waren in den beiden Weltkriegen. Während des zweiten Weltkrieges war die Verwendung des Wortes "Electric Engine" fast nicht-existent.
+
+Danach haben wir auf Google Trends die Suchhäufigkeit von verschiedenen Elektroautos recherchiert. Wir bekamen folgende Resultate:
+
+![Google Trends](googletrends.jpg)
+
+In den letzten drei Jahren war der BMW i3 klar das am meisten gesuchte Elektroauto weltweit. An zweiter Stelle war der Nissan Leaf und an dritter der Tesla Model S. Der Chevy Volt war für ein paar Jahre einer der Top-Favoriten, jedoch sanken die Suchanfragen ab 2013 stark.
 
 # Quellen
 - [http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/](http://de.statista.com/statistik/daten/studie/287632/umfrage/neuzulassungen-von-elektroautos-in-der-schweiz/)

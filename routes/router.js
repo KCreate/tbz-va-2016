@@ -1,5 +1,5 @@
 const express   = require('express');
-const router    = express.Router({ strict: true });
+const router    = new express.Router({ strict: true });
 
 // Remove .html from the url
 router.use('/:section', (req, res, next) => {
@@ -22,7 +22,7 @@ router.use('/:section', (req, res, next) => {
 
 // Main routes
 router.use('/:section', (req, res, next) => {
-    const pages = ['home', 'umfrage', 'vergleich', 'interview'];
+    const pages = ['home', 'umfrage', 'vergleich', 'interview', 'fotoreportage'];
     if (pages.indexOf(req.params.section) > -1) {
         res.render(req.params.section, {
             ['current_' + req.params.section]: true,

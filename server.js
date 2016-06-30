@@ -5,8 +5,8 @@ const expressHandlebars     = require('express-handlebars');
 const handlebars            = expressHandlebars.create({
     defaultLayout: 'main',
     partialsDir: [
-        'views/components/'
-    ]
+        'views/components/',
+    ],
 });
 
 // Webpack configuration

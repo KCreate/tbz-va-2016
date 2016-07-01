@@ -115,9 +115,17 @@ Preis CHF | 38'948 | 36'505 | 29'211
 - Relativ kurze Reichweite. Teure Elektroautos besitzen eine Reichweite von über 500 Kilometern.
 - Lange Ladezeiten der Batterien. Dies kann bis zu 10 Stunden dauern.
 
+# Ist es wirklich umweltfreundlicher?
+Die Automarke Renault hat im Jahre 2013 ein Vergleich zwischen der Benziner- und Elektro Version des Fluence Sedans durchgeführt. In der Studie ging es darum herauszufinden ob Elektroautos wirklich umweltfreundlicher sind als Benziner. Verglichen wurden die Emissionen des Autos während der Fahrt und der Produktion.
+Ebenfalls wurde gemessen wie stark die Autos sauren Regen verursachen, ob sie das Wachstum von Algen beschleunigen, wie viel Wasser, Stahl oder Kupfer die Autos konsumieren und wieviel Energie die Wagen allgemein verbrauchen.
+
+Das Resultat der Studie besagt, das Elektroautos umweltfreundlicher sind als Benziner. Selbst wenn das Gebiet in dem das Elektroauto aufgeladen wurde stark von Kohle oder anderen fossilen Brennstoffe abhängig ist, sind die Elektroautos umweltfreundlicher.
+
+Die gesamte Studie kann [hier](http://www.ucsusa.org/sites/default/files/legacy/assets/documents/clean_vehicles/electric-car-global-warming-emissions-report.pdf) angesehen werden.
+
 # Zielgruppe
 Zur Zielgruppe von Elektroautos gehören definitiv Menschen die in einer Stadt leben. Diese können ihr Elektroauto einfach und billig an der nächsten Ladestation aufladen.
-Je nach Reichweite des Elektroautos kann sich die Zielgruppe erhöhen oder verkleinern. 
+Je nach Reichweite des Elektroautos kann sich die Zielgruppe erhöhen oder verkleinern.
 
 # Ladestationen
 Ladestationen für Elektroautos gibt es überall. Unten ist ein Bild von allen Ladestationen für die Elektroautos von Tesla.

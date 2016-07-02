@@ -121,7 +121,7 @@ Ebenfalls wurde gemessen wie stark die Autos sauren Regen verursachen, ob sie da
 
 Das Resultat der Studie besagt, das Elektroautos umweltfreundlicher sind als Benziner. Selbst wenn das Gebiet in dem das Elektroauto aufgeladen wurde stark von Kohle oder anderen fossilen Brennstoffe abhängig ist, sind die Elektroautos umweltfreundlicher.
 
-Die gesamte Studie kann [hier](http://www.ucsusa.org/sites/default/files/legacy/assets/documents/clean_vehicles/electric-car-global-warming-emissions-report.pdf) angesehen werden.
+Eine vergleichbare Studie kann [hier](http://www.ucsusa.org/sites/default/files/legacy/assets/documents/clean_vehicles/electric-car-global-warming-emissions-report.pdf) angesehen werden.
 
 # Zielgruppe
 Zur Zielgruppe von Elektroautos gehören definitiv Menschen die in einer Stadt leben. Diese können ihr Elektroauto einfach und billig an der nächsten Ladestation aufladen.

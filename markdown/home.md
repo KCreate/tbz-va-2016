@@ -41,7 +41,7 @@ So haben wir uns die Arbeit Anfangs eingeteilt, durchgeführt wurde sie höchstw
 - Arbeits Dokumentation
 
 # Open Source
-Der gesamte Code und öffentliche Inhalt dieser Website ist [hier](https://github.com/KCreate/tbz-va-2016) zum herunterladen und erkunden verfügbar. 
+Der gesamte Code und öffentliche Inhalt dieser Website ist [hier](https://github.com/KCreate/tbz-va-2016) zum herunterladen und erkunden verfügbar.
 Falls der obige Link nicht funktioniert, hat dies möglicherweise den Grund das wir Ihn noch nicht freigeschaltet haben.
 
 # Impressum

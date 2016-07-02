@@ -22,7 +22,14 @@ router.use('/:section', (req, res, next) => {
 
 // Main routes
 router.use('/:section', (req, res, next) => {
-    const pages = ['home', 'umfrage', 'vergleich', 'interview', 'fotoreportage'];
+    const pages = [
+        'home',
+        'umfrage',
+        'vergleich',
+        'interview',
+        'fotoreportage',
+        'arbeit'
+    ];
     if (pages.indexOf(req.params.section) > -1) {
         res.render(req.params.section, {
             ['current_' + req.params.section]: true,

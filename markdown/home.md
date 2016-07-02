@@ -18,6 +18,17 @@ Zusätzlich zu diesen Bedingungen haben wir uns selbst folgende Ziele gesetzt:
 - Wir werden einen Vergleich von Elektroautos und benzinbetriebenen Autos durchführen und dokumentieren
 - Eine Umfrage durchführen zur öffentlichen Meinung über Elektro-Autos und deren Gegenstück, die benzinbetriebenen Autos.
 
+# Vorwort
+Beim Siemens Standort in Albisrieden gibt es eine Ladestation für Elektro-Autos. Die Siemens ist auch im Besitz eines eigenen Elektro-Autos, einem BMW i3.
+
+Wir werden Personen die das Elektro-Auto bereits benutzen, über Ihre Erfahrungen und Ihre Meinungen befragen. Wir möchten wissen ob dieses auch als Privat-Vehikel benützen würden und falls ja/nein, warum?
+
+Wir werden die Spezifikationen des Autos veranschaulichen und mögliche Gründe suchen, warum es besser ist als Autos die mit Benzin betrieben werden.
+
+Wir werden ein Interview mit einem Benutzer eines Elektrowagens und einer zuständigen Person durchführen und diese dann auch zu publizieren.
+
+Wir werden darauf verzichten die Arbeit als Word-Dokument abzugeben und werden anstelle dessen eine Website gestalten und veröffentlichen. Diese wird öffentlich zugänglich gemacht und im Internet publiziert.
+
 # Arbeitsteilung
 So haben wir uns die Arbeit Anfangs eingeteilt, durchgeführt wurde sie höchstwarscheinlichst anders.
 

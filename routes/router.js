@@ -28,7 +28,7 @@ router.use('/:section', (req, res, next) => {
         'vergleich',
         'interview',
         'fotoreportage',
-        'arbeit'
+        'arbeit',
     ];
     if (pages.indexOf(req.params.section) > -1) {
         res.render(req.params.section, {

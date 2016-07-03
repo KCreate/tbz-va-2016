@@ -1,5 +1,5 @@
 tell application "Google Chrome"
-	set theUrl to "http://localhost:3000/fotoreportage"
+	set theUrl to "http://localhost:3000/arbeit"
 	
 	if (count every window) = 0 then
 		make new window

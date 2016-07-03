@@ -13,4 +13,31 @@ Wir haben in dieser Arbeit primär über die Unterschiede der Elektroautos zu de
 
 Der grösste Unterschied zu anderen Arbeiten in unserem Jahrgang, war die Form in welcher wir sie abgegeben haben. Grundsätzlich wurde ein einfaches Word-Dokument erwartet. Wir haben das ganze an unseren Beruf und unsere bisherigen Erfahrungen angepasst und die Arbeit nun als öffentlich zugängliche Website geschrieben. Dies hatte viele Vorteile. Wir konnten unsere Web-Kenntnisse verbessern und konnten vielen Problemen aus dem Weg gehen die wir mit Microsoft Word gehabt hätten (*hust* Bilder richtig anordnen *hust*).
 
-Wir haben die ganze Arbeit auf GitHub unter Versionenkontrolle gehalten. Dies half immens, da wir so immer auf alte Versionen der Dokumente zugreifen konnten. Wenn also etwas schief gelaufen ist, hatten wir sofort die Möglichkeit die Dateien in Ihren alten Zustand zu versetzen.
+Wir haben die ganze Arbeit auf GitHub unter Versionsverwaltung gehalten. Dies half immens, da wir so immer auf alte Versionen der Dokumente zugreifen konnten. Wenn also etwas schief gelaufen ist, hatten wir sofort die Möglichkeit die Dateien in Ihren alten Zustand zu versetzen.
+
+# Positives
+Was hat am besten funktioniert? Welche Themen hatten wir am schnellsten? Wo haben wir am meisten gelernt?
+
+## Leonard
+Das Aufbauen der Website hat meiner Meinung nach am besten geklappt. Es dauerte etwa zwei bis drei Tage bis wir die Website an einem Punkt hatten, so dass wir einfach neuen Inhalt hinzufügen konnten ohne noch stark etwas am Grundgerüst zu verändern.
+
+Der Teil über den Treibhauseffekt war am schnellsten fertig. Im Internet fand ich eine grosse Anzahl von Ressourcen die mir halfen ein klares Bild davon zu bekommen.
+
+Am meisten lernte ich über die Geschichte der Elektroautos. Ich hätte nie gedacht das diese so weit zurück führt. Das es bereits 1837 Elektroautos gab, war mir bisher nicht bewusst.
+
+## Pascal
+
+## Oliver
+
+
+# Negatives
+Was hat weniger gut funktioniert? Bei welchen Themen hatten wir am meisten Probleme?
+
+## Leonard
+Die Umfrage wurde leider von nicht so vielen Personen ausgefüllt. Wir hätten mehr erwartet. Möglicherweise werden wir nach der Abgabe der Arbeit noch ein paar Interessenten finden. Wird dies der Fall sein, werden wir die Arbeit noch entsprechend korrigieren.
+
+Wir haben das Interview lange vor uns her geschoben. Wir wussten nicht genau welche Fragen wir stellen sollten.
+
+## Pascal
+
+## Oliver

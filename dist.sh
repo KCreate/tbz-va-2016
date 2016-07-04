@@ -17,5 +17,7 @@ curl http://localhost:3000/ > dist/index.html
 curl http://localhost:3000/umfrage > dist/umfrage.html
 curl http://localhost:3000/vergleich > dist/vergleich.html
 curl http://localhost:3000/interview > dist/interview.html
+curl http://localhost:3000/fotoreportage > dist/fotoreportage.html
+curl http://localhost:3000/arbeit > dist/arbeit.html
 
 kill $!

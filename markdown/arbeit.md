@@ -5,9 +5,6 @@ Was mir (Leonard) vorher nicht bekannt war, war dass Elektroautos unter dem Stri
 
 Was uns gewaltig überrascht hat, ist die Geschichte der Elektroautos. Wir hätten nie gedacht, dass das erste Elektroauto bereits 1837 auf den Strassen Schottlands unterwegs war. Es war ein relativ rudimentäres Gefährt, stosste jedoch den Ball in die richtige Richtung.
 
-# Über die Gruppenarbeit und Zusammenarbeit
-...
-
 # Schlusswort
 Wir haben in dieser Arbeit primär über die Unterschiede der Elektroautos zu den Benzinern geschrieben. Auch wurden Themen wie der Treibhauseffekt, Sicherheit und die Geschichte von Elektroautos besprochen. Es wurde eine Umfrage durchgeführt, welche leider weniger Personen ausgefüllt haben als wir uns erhofft haben.
 

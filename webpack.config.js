@@ -15,12 +15,12 @@ if (production) {
         plugins: [
             new webpack.optimize.UglifyJsPlugin({
                 compress: {
-                    warnings: false
+                    warnings: false,
                 },
             }),
             new webpack.optimize.OccurenceOrderPlugin(),
             new webpack.NoErrorsPlugin(),
-            new ExtractPlugin('style.css')
+            new ExtractPlugin('style.css'),
         ],
         output: {
             path: path.resolve(__dirname, 'dist'),
@@ -33,7 +33,7 @@ if (production) {
                 loader: ExtractPlugin.extract('style-loader', 'css!postcss!sass'),
             }, {
                 test: /\.(png|woff|woff2|eot|ttf|svg)$/,
-                loader: 'url-loader?limit=100000'
+                loader: 'url-loader?limit=100000',
             }],
         },
         postcss: () => ([autoprefixer, cssnano]),
@@ -47,7 +47,7 @@ if (production) {
         plugins: [
             new webpack.HotModuleReplacementPlugin(),
             new webpack.optimize.OccurenceOrderPlugin(),
-            new webpack.NoErrorsPlugin()
+            new webpack.NoErrorsPlugin(),
         ],
         output: {
             path: path.resolve(__dirname, 'dist'),
@@ -60,7 +60,7 @@ if (production) {
                 loader: 'style!css!postcss!sass',
             }, {
                 test: /\.(png|woff|woff2|eot|ttf|svg)$/,
-                loader: 'url-loader?limit=100000'
+                loader: 'url-loader?limit=100000',
             }],
         },
         postcss: () => ([autoprefixer, cssnano]),

@@ -28,6 +28,11 @@ Am meisten lernte ich über die Geschichte der Elektroautos. Ich hätte nie geda
 ## Pascal
 
 ## Oliver
+Die Interviewfragen waren sehr informationsreich und gleichzeitig auch schnell fertig gestellt. Wir wissen jetzt über die befragten Personen Bescheid und haben auch einiges gelernt bezüglich dem Auto und den sonstigen Arbeiten, die Siemens mit dem Auto hat.
+
+Die Fotoreportage war sehr schnell erledigt, da wir ein Elektroauto auf dem Siemens-Gelände haben. Wir mussten nur den Tag abwarten, an dem das Siemensauto auch an die Ladestation gehängt wurde. Das war regelmässiger als gedacht und somit konnten wir das auch abschliessen.
+
+Vor der Arbeit wusste ich fast nichts zur Geschichte. Mittlerweile weiss ich schon sehr viel mehr und lernte auch viel neue, mir unbekannte Fakten kennen.
 
 
 # Negatives
@@ -41,3 +46,4 @@ Wir haben das Interview lange vor uns her geschoben. Wir wussten nicht genau wel
 ## Pascal
 
 ## Oliver
+Das zweite Interview haben wir erst sehr spät durchgeführt. Jedoch klappte am Schluss auch das.

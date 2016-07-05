@@ -32,7 +32,6 @@ Die Fotoreportage war sehr schnell erledigt, da wir ein Elektroauto auf dem Siem
 
 Vor der Arbeit wusste ich fast nichts zur Geschichte. Mittlerweile weiss ich schon sehr viel mehr und lernte auch viel neue, mir unbekannte Fakten kennen.
 
-
 # Negatives
 Was hat weniger gut funktioniert? Bei welchen Themen hatten wir am meisten Probleme?
 
@@ -45,4 +44,4 @@ Wir haben das Interview lange vor uns her geschoben. Wir wussten nicht genau wel
 Wir hatten die Zeit nicht immer ganz im Auge und mussten dann am Schluss noch ein wenig sputen.
 
 ## Oliver
-Das zweite Interview haben wir erst sehr spät durchgeführt. Jedoch klappte am Schluss auch das.
+Das Interview haben wir erst sehr spät durchgeführt. Jedoch klappte am Schluss auch das.

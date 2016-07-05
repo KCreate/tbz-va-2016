@@ -25,7 +25,7 @@ Wir werden Personen die das Elektro-Auto bereits benutzen, über Ihre Erfahrunge
 
 Wir werden die Spezifikationen des Autos veranschaulichen und mögliche Gründe suchen, warum es besser ist als Autos die mit Benzin betrieben werden.
 
-Wir werden ein Interview mit einem Benutzer eines Elektrowagens und einer zuständigen Person durchführen und diese dann auch zu publizieren.
+Wir werden ein Interview mit einer zuständigen Person durchführen und dieses dann auch zu publizieren.
 
 Wir werden darauf verzichten die Arbeit als Word-Dokument abzugeben und werden anstelle dessen eine Website gestalten und veröffentlichen. Diese wird öffentlich zugänglich gemacht und im Internet publiziert.
 

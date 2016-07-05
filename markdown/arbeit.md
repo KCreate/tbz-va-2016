@@ -12,6 +12,8 @@ Der grösste Unterschied zu anderen Arbeiten in unserem Jahrgang, war die Form i
 
 Wir haben die ganze Arbeit auf GitHub unter Versionsverwaltung gehalten. Dies half immens, da wir so immer auf alte Versionen der Dokumente zugreifen konnten. Wenn also etwas schief gelaufen ist, hatten wir sofort die Möglichkeit die Dateien in Ihren alten Zustand zu versetzen.
 
+Leider konnten wir nicht zwei Interviews durchführen, da wir niemanden fanden der bereits ein Elektroauto besitzt. Wir werden in unserer nächsten Arbeit besser auf die Zeitplanung etc. achten.
+
 # Positives
 Was hat am besten funktioniert? Welche Themen hatten wir am schnellsten? Wo haben wir am meisten gelernt?
 

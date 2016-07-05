@@ -26,7 +26,7 @@ Am meisten lernte ich über die Geschichte der Elektroautos. Ich hätte nie geda
 Das Interview welches wir durchgeführt haben wahr sehr Informationsreich und zeigte mir was ein Elektroauto alles bewirken kann. Ich habe das gefühl das ich eine menge neues über Elektoautos und deren Umfeld gelernt habe.
 
 ## Oliver
-Die Interviewfragen waren sehr informationsreich und gleichzeitig auch schnell fertig gestellt. Wir wissen jetzt über die befragten Personen Bescheid und haben auch einiges gelernt bezüglich dem Auto und den sonstigen Arbeiten, die Siemens mit dem Auto hat.
+Die Interviewfragen waren sehr informationsreich und gleichzeitig auch schnell fertig gestellt. Wir wissen jetzt über die befragte Person Bescheid und haben auch einiges gelernt bezüglich dem Auto und den sonstigen Arbeiten, die Siemens mit dem Auto hat.
 
 Die Fotoreportage war sehr schnell erledigt, da wir ein Elektroauto auf dem Siemens-Gelände haben. Wir mussten nur den Tag abwarten, an dem das Siemensauto auch an die Ladestation gehängt wurde. Das war regelmässiger als gedacht und somit konnten wir das auch abschliessen.
 

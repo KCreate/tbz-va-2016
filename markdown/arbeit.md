@@ -23,6 +23,7 @@ Der Teil über den Treibhauseffekt war am schnellsten fertig. Im Internet fand i
 Am meisten lernte ich über die Geschichte der Elektroautos. Ich hätte nie gedacht das diese so weit zurück führt. Das es bereits 1837 Elektroautos gab, war mir bisher nicht bewusst.
 
 ## Pascal
+Das Interview welches wir durchgeführt haben wahr sehr Informationsreich und zeigte mir was ein Elektroauto alles bewirken kann. Ich habe das gefühl das ich eine menge neues über Elektoautos und deren Umfeld gelernt habe.
 
 ## Oliver
 Die Interviewfragen waren sehr informationsreich und gleichzeitig auch schnell fertig gestellt. Wir wissen jetzt über die befragten Personen Bescheid und haben auch einiges gelernt bezüglich dem Auto und den sonstigen Arbeiten, die Siemens mit dem Auto hat.
@@ -41,6 +42,7 @@ Die Umfrage wurde leider von nicht so vielen Personen ausgefüllt. Wir hätten m
 Wir haben das Interview lange vor uns her geschoben. Wir wussten nicht genau welche Fragen wir stellen sollten.
 
 ## Pascal
+Wir hatten die Zeit nicht immer ganz im Auge und mussten dann am Schluss noch ein wenig sputen.
 
 ## Oliver
 Das zweite Interview haben wir erst sehr spät durchgeführt. Jedoch klappte am Schluss auch das.
